@@ -25,7 +25,7 @@
    - иначе → вывести количество дней со словом в нужной форме («31 день», «30 дней», «29 дней», «28 дней»).
 9. Конец.
 ### Блок-схема
-![Блок-схема, созданная в draw.io]( homework7.drawio.png )
+![Блок-схема, созданная в draw.io]( homework7.drawio (1).png )
 https://drive.google.com/file/d/1S4ik58y11AOhZxt8LzAH2M_umUUPO-MV/view?usp=sharing
 ## 2. Реализация программы
 ```c
